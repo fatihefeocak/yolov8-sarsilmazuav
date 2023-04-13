@@ -13,6 +13,12 @@ The most recent and cutting-edge `YOLO` model, `YoloV8`, can be utilized for app
 ```bash
 pip install -r requirements.txt
 ```
+## How to use
+```bash
+python sarso.py --weights <your .pt file> --source <source> 
+```
+
+
 
 
 
